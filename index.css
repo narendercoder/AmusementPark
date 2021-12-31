@@ -182,24 +182,6 @@ body{
     }
   }
 
-/* @keyframes bounce{
-    0%{
-        transform: translate(0vw, 0vw);
-    }
-    100%{
-        transform: translate(-100vw, 0vw) ;
-    }
-}
-
- @keyframes rotate{
-    0% {
-        transform: rotate(0deg);
-    }
-    100%{
-        transform: rotate(360deg);
-    }
-}  */
-
 
 
 
@@ -296,19 +278,7 @@ body{
    animation: up 3s linear  infinite;
   }
 
-  /* #carousel #body path{
-    animation: colorise 3s steps(1) infinite;
-  }
 
-  #carousel #horse_2 #body path{
-    animation: colorise 3s steps(1) reverse infinite;
-  }*/
-
-
-  /* #carousel #horse_4 #body path{
-    animation: colorise 3s steps(1) reverse infinite;
-    
-  } */
 
 @keyframes up{
   0%,
@@ -329,110 +299,12 @@ body{
   }
 }
 
-/* @keyframes colorise{
-  0%,
-  100%{
-    fill: #DDCCC5;
-  }
-  50%{
-    fill: #4C537A;
-  }
-} */
 
 
 
 
 
-/* #couple_5{
-  animation: walk 10s steps(6) infinite;
-  transform-box: fill-box;
-  transform:rotate(180deg);
-}
-#Group_24_5{
-  animation:flips 10s steps(2) reverse infinite;
-  transform-box: fill-box;
-}
-#Group_23_3{
-  animation:flips 10s steps(2) reverse infinite;
-  transform-box: fill-box;
-}
-@keyframes walk{
-  0%{
-    transform: translate(0px,0px);
-    
-  }
-  100%{
-    transform:translate(-110vw,-10vh);
-    
-  }
-
-}
-@keyframes flips{
-  0%,100%{
-    transform:rotatey(-180deg) ;
-    
-  }
-  50%{
-    transform:rotatey(180deg);
-    
-  }
-
-} */
 
 
-
-
-
-/* #seats{
-  animation: new 10s linear infinite;
-  transform-origin: top;
-  transform-box: fill-box;
-}
-@keyframes new{
-  0%,100%{
-    transform: rotatey(0deg);
-  }
-  50%{
-    transform: rotatey(360deg) ;
-  }
-} */
-
-
-/* #seat5{
-  animation: new2 10s linear infinite;
-  transform-origin: top;
-  transform-box: fill-box;
-}
-@keyframes new2{
-  0%{
-    transform: translate(0px,0px);
-  }
-  100%{
-    transform: translate(250px,0px);
-  }
-}
-
-#seat4{
-  animation: new2 10s linear infinite;
-  transform-origin: top;
-  transform-box: fill-box;
-}
-
-#seat3{
-  animation: new2 10s linear infinite;
-transform-origin: top;
-  transform-box: fill-box;
-}
-
-#seat2{
-  animation: new2 10s linear infinite;
-  transform-origin: top;
-  transform-box: fill-box;
-}
-#seat1{
-  animation: new2 10s linear infinite;
-  transform-origin: top;
-  transform-box: fill-box;
-} */
 
 
